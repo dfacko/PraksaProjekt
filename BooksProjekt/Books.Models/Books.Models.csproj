@@ -41,7 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BooksPublisher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Books.Models.Common\Books.Models.Common.csproj">
+      <Project>{fad947d5-df6f-4506-a009-49e55adbf11a}</Project>
+      <Name>Books.Models.Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

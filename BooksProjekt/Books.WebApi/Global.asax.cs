@@ -4,6 +4,14 @@ using System.Linq;
 using System.Web;
 using System.Web.Http;
 using System.Web.Routing;
+using Books.Service;
+using Books.Service.Common;
+using Books.Repository;
+using Books.WebApi.Controllers;
+using Book.Service;
+using Autofac;
+using Autofac.Integration.WebApi;
+using Books.Repository.Common;
 
 namespace Books.WebApi
 {
@@ -11,18 +19,18 @@ namespace Books.WebApi
     {
         protected void Application_Start()
         {
-            //GlobalConfiguration.Configure(WebApiConfig.Register);  //ove dvije linije nam ostaju svima isto
-            //var containerBuilder = new ContainerBuilder();  
+            GlobalConfiguration.Configure(WebApiConfig.Register);  //ove dvije linije nam ostaju svima isto
+            var containerBuilder = new ContainerBuilder();
 
 
-            /*containerBuilder.RegisterModule<ServiceModule>();
-            containerBuilder.RegisterModule<RepositoryModule>();*/  // u ove module cete registrirat sto treba
+            //dodano
+            containerBuilder.RegisterType<BooksPublisherController>();
 
+            containerBuilder.RegisterModule<ServiceModule>();
+            containerBuilder.RegisterModule<RepositoryModule>();  // u ove module cete registrirat sto treba
 
-
-           // var container = containerBuilder.Build(); //i ove dvije isto
-           // GlobalConfiguration.Configuration.DependencyResolver = new AutofacWebApiDependencyResolver((IContainer)container);
-
+            var container = containerBuilder.Build(); //i ove dvije isto
+            GlobalConfiguration.Configuration.DependencyResolver = new AutofacWebApiDependencyResolver((IContainer)container);
 
         }
     }
