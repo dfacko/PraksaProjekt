@@ -1,0 +1,11 @@
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\bin\Debug\Books.Service.Common.dll
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\bin\Debug\Books.Service.Common.pdb
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\bin\Debug\Books.Models.dll
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\bin\Debug\Books.Models.Common.dll
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\bin\Debug\Books.Models.pdb
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\bin\Debug\Books.Models.Common.pdb
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\obj\Debug\Books.Service.Common.csprojAssemblyReference.cache
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\obj\Debug\Books.Service.Common.csproj.CoreCompileInputs.cache
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\obj\Debug\Books.Service.Common.csproj.CopyComplete
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\obj\Debug\Books.Service.Common.dll
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Service.Common\obj\Debug\Books.Service.Common.pdb

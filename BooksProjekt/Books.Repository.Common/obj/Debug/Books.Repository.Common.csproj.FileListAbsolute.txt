@@ -1,0 +1,11 @@
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\bin\Debug\Books.Repository.Common.dll
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\bin\Debug\Books.Repository.Common.pdb
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\bin\Debug\Books.Models.dll
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\bin\Debug\Books.Models.Common.dll
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\bin\Debug\Books.Models.pdb
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\bin\Debug\Books.Models.Common.pdb
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\obj\Debug\Books.Repository.Common.csprojAssemblyReference.cache
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\obj\Debug\Books.Repository.Common.csproj.CoreCompileInputs.cache
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\obj\Debug\Books.Repository.Common.csproj.CopyComplete
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\obj\Debug\Books.Repository.Common.dll
+C:\Users\Branka\Desktop\PRAKSA__\PraksaProjekt\BooksProjekt\Books.Repository.Common\obj\Debug\Books.Repository.Common.pdb
