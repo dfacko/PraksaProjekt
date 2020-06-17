@@ -12,6 +12,7 @@ namespace Books.Repository {
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType<BooksPublisherRepository>().As<IBooksPublisherRepository>();
+            builder.RegisterType<BooksCommentRepository>().As<IBooksCommentRepository>();
         }
     }
 }

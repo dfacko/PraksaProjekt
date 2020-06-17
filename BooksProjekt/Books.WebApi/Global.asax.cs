@@ -25,6 +25,7 @@ namespace Books.WebApi
 
             //dodano
             containerBuilder.RegisterType<BooksPublisherController>();
+            containerBuilder.RegisterType<BooksCommentController>();
 
             containerBuilder.RegisterModule<ServiceModule>();
             containerBuilder.RegisterModule<RepositoryModule>();  // u ove module cete registrirat sto treba

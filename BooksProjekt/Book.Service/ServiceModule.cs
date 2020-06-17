@@ -12,6 +12,7 @@ namespace Book.Service {
         protected override void Load(ContainerBuilder builder)
         {
             builder.RegisterType<BooksPublisherService>().As<IBooksPublisherService>();
+            builder.RegisterType<BooksCommentService>().As<IBooksCommentService>();
         }
     }
 }
